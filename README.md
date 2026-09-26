@@ -1,1 +1,0 @@
-# jakobczakmagda.github.io
