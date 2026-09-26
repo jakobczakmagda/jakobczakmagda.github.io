@@ -411,27 +411,21 @@ body {
 
 
 /* =========================================
-   SOCIAL ICONS — BOTTOM RIGHT
+   NAVIGATION SOCIAL ICONS
 ========================================= */
 
-.hero-socials {
-
-    position: absolute;
-
-    right: 40px;
-
-    bottom: 35px;
+.nav-socials {
 
     display: flex;
 
     align-items: center;
 
-    gap: 20px;
+    gap: 18px;
 
 }
 
 
-.hero-socials a {
+.nav-socials a {
 
     display: flex;
 
@@ -442,14 +436,13 @@ body {
 }
 
 
-.hero-socials svg {
+.nav-socials svg {
 
-    width: 20px;
+    width: 19px;
 
-    height: 20px;
+    height: 19px;
 
-    fill:
-        var(--text-muted);
+    fill: var(--text-muted);
 
     transition:
         fill 0.2s ease,
@@ -458,16 +451,13 @@ body {
 }
 
 
-.hero-socials a:hover svg {
+.nav-socials a:hover svg {
 
-    fill:
-        var(--olive);
+    fill: var(--olive);
 
-    transform:
-        translateY(-2px);
+    transform: translateY(-2px);
 
 }
-
 
 /* =========================================
    GENERAL SECTIONS
