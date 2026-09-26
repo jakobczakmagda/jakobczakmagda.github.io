@@ -909,14 +909,6 @@ footer {
 
     }
 
-
-    .hero-socials {
-
-        right: 25px;
-
-    }
-
-
     .projects-grid {
 
         grid-template-columns:
@@ -1025,16 +1017,6 @@ footer {
         height: 260px;
 
     }
-
-
-    .hero-socials {
-
-        right: 20px;
-
-        bottom: 25px;
-
-    }
-
 
     .section {
 
